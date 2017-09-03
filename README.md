@@ -2,5 +2,7 @@
 GitHub repo of the assignment
 
 This repo includes the following files
+
 The R file "run_analysis.R" that executes the assigniments
-The CodeBook that explains each variable generated
+
+The "CodeBook" that explains each variable generated
